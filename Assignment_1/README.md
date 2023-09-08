@@ -1,4 +1,4 @@
-# Semantic Segmentation - TEK5040/9040 Autumn-2023
+# Semantic Segmentation - TEK5040
 
 ## Introduction
 
