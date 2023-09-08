@@ -1,1 +1,2 @@
-# TEK5040_DeepLearning
+# TEK5040 Deep Learning
+# 
